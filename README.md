@@ -1,10 +1,10 @@
 # JavaSpringBootApi
 RESTful API 
 # Features
-Java with Spring
-Spring Boot
-Spring Security
-Bootstrap
-Thymeleaf
+Java Spring </br>
+Spring Boot </br>
+Spring Security </br>
+Bootstrap </br>
+Thymeleaf </br>
 
 
