@@ -1,2 +1,10 @@
 # JavaSpringBootApi
-RESTful API with Java spring/Java spring boot/JPA/Bootstrap/Thymeleaf
+RESTful API 
+# Features
+Java with Spring
+Spring Boot
+Spring Security
+Bootstrap
+Thymeleaf
+
+
