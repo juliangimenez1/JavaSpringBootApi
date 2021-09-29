@@ -1,5 +1,5 @@
 # JavaSpringBootApi
-RESTful API 
+RESTful API with MVC
 # Features
 Java Spring </br>
 Spring Boot </br>
